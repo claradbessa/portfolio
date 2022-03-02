@@ -2,6 +2,17 @@
   align-items: center;
 }
 
+.introducao .subtitulo-intro {
+  font-size: 6.5rem;
+  line-height: 1;
+  text-transform: uppercase;
+  word-break: break-all;
+  max-width: 10ch;
+  text-align: end;
+  justify-content: end;
+  color: #8f8f8f;
+}
+
 .introducao h1 {
   font-size: 4rem;
   line-height: 1.125;
